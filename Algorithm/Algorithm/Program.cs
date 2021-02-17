@@ -11,7 +11,7 @@ namespace Algorithm
 	{
 		static void Main(string[] args)
 		{
-			new 주식가격().Execute();
+			new 가장큰수().Execute();
 		}
 	}
 }
