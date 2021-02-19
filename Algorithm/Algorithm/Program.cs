@@ -11,7 +11,7 @@ namespace Algorithm
 	{
 		static void Main(string[] args)
 		{
-			new 가장큰수().Execute();
+			new 풍선터트리기().Execute();
 		}
 	}
 }
