@@ -11,7 +11,7 @@ namespace Algorithm
 	{
 		static void Main(string[] args)
 		{
-			new 풍선터트리기().Execute();
+			new 네트워크().Execute();
 		}
 	}
 }
